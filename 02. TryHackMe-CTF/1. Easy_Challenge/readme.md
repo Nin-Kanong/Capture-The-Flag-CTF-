@@ -188,6 +188,10 @@ So the correct answer is:
 ````
 sqli
 ````
+<img width="1048" height="88" alt="image" src="https://github.com/user-attachments/assets/d8564880-714c-41af-b0bd-ea25ace9f13f" />
+
+---
+
 
 
 
